@@ -1,0 +1,298 @@
+
+*{
+  box-sizing: border-box;
+}
+
+.item {
+  width: 500px;
+  height: 600px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: rgb(119, 112, 112);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+}
+
+.item1 {
+
+  width: 500px;
+  height: 600px;
+  
+  padding-top: 75px;
+  
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+  background-image:url("h1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item2 {
+
+  width: 800px;
+  height: 600px;
+  margin: 40px auto;
+  margin-left: 50%;
+  
+  padding-top: 75px;
+  background: rgb(7, 197, 23);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+
+  background-image:url("k2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item3 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  margin-left: 10px;
+  
+  padding-top: 75px;
+  background: rgb(218, 74, 7);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("k3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item4 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  margin-right: 10px;
+  
+  padding-top: 75px;
+  background: rgb(134, 34, 3);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("k4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+
+.side-con{
+
+  display: flex;
+  float: left;
+  
+  
+
+    width:1000px;
+    height: 600px;
+    margin: auto;
+    margin-left: 10%;
+    
+    padding-top: 10px;
+    background: rgb(14, 228, 85);
+    text-align: center;
+    color: rgb(248, 233, 233);
+    font-size: 3em;
+    justify-content:space-between 2px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px black;
+  
+  
+}
+
+ .item5 , .item6{
+
+  width: 300px;
+  height: 600px;
+  margin: 20px auto;
+  margin-left: 10px;
+  
+  padding-top: 75px;
+  background: rgb(8, 3, 1);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+  display: block;
+  
+
+}
+
+
+
+.bottom{
+
+  display: block;
+  
+}
+
+.item7 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  margin-right: 10px;
+  display: block;
+  margin-top: 70%;
+  
+  padding-top: 75px;
+  background: rgb(134, 34, 3);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("k7.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item8 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  margin-left: 10px;
+  
+  padding-top: 75px;
+  background: rgb(77, 214, 13);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("k8.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item9 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  
+  
+  padding-top: 75px;
+  background: rgb(152, 9, 209);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("k9.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item10 {
+
+  width: 900px;
+  height: 600px;
+  margin: 20px auto;
+  margin-left: 10px;
+  
+  padding-top: 75px;
+  background: rgb(255, 238, 1);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+  background-image:url("h1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.item11 {
+
+  width: 300px;
+  height: 150px;
+  margin: 20px auto;
+  margin-right: 10px;
+  
+  padding-top: 75px;
+  background: rgb(134, 34, 3);
+  text-align: center;
+  color: rgb(248, 233, 233);
+  font-size: 3em;
+  justify-content: center;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px black;
+
+}
+
+
+.typewriter h1 {
+  color: rgb(24, 22, 22);
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
